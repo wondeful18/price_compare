@@ -1,0 +1,1 @@
+python demo_onebound_taobao.py "活络扳手 6寸 得力" --with-detail --max-price 10

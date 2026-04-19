@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Excel files
+*.xlsx
+*.xls
+
+# Logs
+*.log
+log/
+logs/
+**/log/
+**/logs/
+
+# Development environment
+venv/
+.venv/
+env/
+.env/
+.idea/
+.vscode/
+dist/
+build/
+
+# Project data exports and logs at repo root
+/data/
